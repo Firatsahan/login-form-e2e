@@ -55,7 +55,7 @@ export default function Login() {
             checked={terms}
             onChange={(e) => setTerms(e.target.checked)}
           />
-          Şartları kabul ediyorum
+          Şartları Kabul Ediyorum.
         </label>
       </div>
 
